@@ -1,0 +1,1 @@
+.venv\Scripts\pyinstaller.exe -F -i .\F3000_1.ico -n mecal4log .\script.py
